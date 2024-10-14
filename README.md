@@ -1,17 +1,12 @@
-## Unity Developer 👋
+<h1 align="center">💻 JosephEFIR - Unity Developer </h1>
 
-### UNIRX
-### DoTween
-### UniTask
-### Zenject
-### FMOD
-### OdinInspector
-### UI 
+<h3 align="center">Languages</h1>
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=sharp&logoColor=99CC00">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephEFIR&show_icons=true&theme=cobalt)
-<!--
-**JosephEFIR/JosephEFIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 Unity Developer 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flowseal&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
