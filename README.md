@@ -8,6 +8,9 @@
      <img src="https://img.shields.io/badge/UniRx-00BFFF?style=for-the-badge&logoColor=ffffff">
     <img src="https://img.shields.io/badge/UniTask-FFD700?style=for-the-badge&logoColor=ffffff">
     <img src="https://img.shields.io/badge/Zenject-FF4500?style=for-the-badge&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/DoTween-8A2BE2?style=for-the-badge&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/FMOD-1E90FF?style=for-the-badge&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/OdinInspector-32CD32?style=for-the-badge&logoColor=ffffff">
 </p>
 
 
