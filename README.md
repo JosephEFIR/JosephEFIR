@@ -5,6 +5,9 @@
   <div>
     <img src="https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=sharp&logoColor=99CC00">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=ffffff">
+     <img src="https://img.shields.io/badge/UniRx-00BFFF?style=for-the-badge&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/UniTask-FFD700?style=for-the-badge&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/Zenject-FF4500?style=for-the-badge&logoColor=ffffff">
 </p>
 
 
