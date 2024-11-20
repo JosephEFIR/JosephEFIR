@@ -1,4 +1,4 @@
-<h1 align="center">💻 JosephEFIR - Unity Developer </h1>
+<h1 align="center">💻 J O S E P H - Unity Developer </h1>
 
 <h3 align="center">Skills</h1>
 <div align="center">
